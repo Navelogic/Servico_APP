@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T14:03:10.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="uYG75RWHT8QMWEUujibP" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T14:05:33.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="SQL383ekPsf0NAonIEGn" version="20.3.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1102" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Aplicativo Festas" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
           <mxGeometry x="108" y="120" width="1730" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="zVVSAIVbG-n8Yde7LuBt-3" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
+        <mxCell id="zVVSAIVbG-n8Yde7LuBt-3" value="Cliente" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
           <mxGeometry x="20" width="1710" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zVVSAIVbG-n8Yde7LuBt-5" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
